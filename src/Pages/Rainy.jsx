@@ -39,7 +39,7 @@ const Rainy = () => {
     <div
       className="relative w-full min-h-screen bg-fixed flex  flex-col"
       style={{
-          backgroundImage: "url('/img/BgFlower.JPG", // แก้ไข path ให้ถูกต้อง
+          backgroundImage: "url('/img/BgFlower.jpg", // แก้ไข path ให้ถูกต้อง
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
