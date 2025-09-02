@@ -12,7 +12,7 @@ const HomePage = () => {
       <section
         className="relative w-full h-[90vh] flex items-center justify-center text-center text-white"
         style={{
-          backgroundImage: "url('public/img/BgFlower.JPG')", // ✅ ตัด /public ออก
+          backgroundImage: "url('/img/BgFlower.JPG')", // ✅ ตัด /public ออก
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}
