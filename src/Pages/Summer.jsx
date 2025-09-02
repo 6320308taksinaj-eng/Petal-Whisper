@@ -39,7 +39,7 @@ const Summer = () => {
     <div
       className="relative w-full min-h-screen bg-fixed flex flex-col"
       style={{
-        backgroundImage: "url('/img/BgFlower.JPG')", // ✅ ไม่ต้องใส่ /public
+        backgroundImage: "url('/img/BgFlower.jpg')", // ✅ ไม่ต้องใส่ /public
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
